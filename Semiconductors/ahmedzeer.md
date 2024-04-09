@@ -53,18 +53,18 @@ degismektedir. Bandlarin olusumu, en dis katmanda olan elektronlarin, valans ele
 baglarin olusumundan ve akimin iletilmesinden sorumludurlar. Cekirdege daha yakin olan elektronlarin orbitalleri hatiri sayilmayacak
 kadar kucuk derecede cakisirlar.
 
-* **Yasak enerji araliklari**, bantlar tarafindan "kaplanmayan" araliklardir. Bunun sonucunda, sonlu miktarda bant olusur.
+* `Yasak enerji araliklari`, bantlar tarafindan "kaplanmayan" araliklardir. Bunun sonucunda, sonlu miktarda bant olusur.
 Bahsi gecen bantlarin genislikleri farklilik gostermektedir. Orbitallerin cakisma miktarina gore bu genislikler degismektedir.
 
 * Atmolar birbirine yaklastikca bantlar genisler ve atomdan ne kadar uzaksa bu band o kadar genisler. Cunku orbitallerin yaricapi buyur
 ve bu sekilde etkilsemesi daha fazla olur. Ayrica, fazla etkilesim de bant genisligini arttirir. Cekirdege yakin olanlar, daha sıkı bagli
-olduklari icin cekirdege ve yaricaplari da kucuk oldugu icin etkilesimleri cok daha azdir dolayisiyla genislemeleri de kucuktur.
+olduklari icin ve yaricaplari da kucuk oldugu icin etkilesimleri cok daha azdir dolayisiyla genislemeleri de kucuktur.
 
 * Bunlarin sonucunda, artik elektronlarin kati boyunca hareket edebilecekleri kristal orbitalleri vardir, atomik orbitaller yerine.
 
 * Elektronun bu kristal yapidaki hareketi herhangi bir bosluktaki harektinden farkli olacaktir. Disaridan kuvvet uygulandigi gibi iceriden
 etki eden kuvvetlerde olacaktir. ( proton notron cartcurt ). Bu ic kuvvetlerin etkisini hesaplamak oldukca zordur dolayiysiyla `etkin kutle`
-hesabi devreye girer. Butun bunlarin hesaba kkatilmasi sarti ile elektrona klasik bir parcacik gibi bakilabilir ve hareketi klasik mekanikle
+hesabi devreye girer. Butun bunlarin hesaba katilmasi sarti ile elektrona klasik bir parcacik gibi bakilabilir ve hareketi klasik mekanikle
 modellenebilir:
 $$\Large a = \frac{eE}{m^*}$$
 
@@ -91,8 +91,8 @@ yaklasmak icin enerji verir.
 #### Kucuk bir ozet
 * Herhangi bir elementin elektriksel iletkenliginden bahsedebilmek icin oncellikle valans elektronlarinin serbestce hareket edebilecekleri bir kristal
 yapinin olmasi gerektigini ogrendik.
-* Metallerden ornek alacak olursak bazilarinin valans bandinin yarim dolu oldugunu oburlerinin ise tam dolu biliyoruz. Sodyumda son yorungen `3s1` olup yarim doludur.
-Bu elemntin atomlari bir araya geldiklerinde bir kristal yapi olusturup valans elektronlarinin serbestce hareket edebilecekleri bir ortamin olustugnu ogrendik. Peki,
+* Metallerden ornek alacak olursak bazilarinin valans bandinin yarim dolu oldugunu oburlerinin ise tam dolu biliyoruz. Sodyumun son yorungesi `3s1` olup yarim doludur.
+Bu elemntin atomlari bir araya geldiklerinde bir kristal yapi olusturup valans elektronlarinin serbestce hareket edebilecekleri bir ortam olusturduklarini ogrendik. Peki,
 Magnezyum gibi metallerde son orbital bos olmadigi halde iletkenlik gosteren ve vlans elektronlari serbest bir sekilde dolasan elementlerdeki durum nasil? Onlarda
 bir sonraki band zaten valans bandin uzerine cakismis durumdadir. Yani, elektronlarin gezebilecekleri yer zaten var.
 * Yalitkan ve Yariiletkenlerde durum farklidir. Onlarin valans bandlari zaten dolu durumdadir ve elektronlarin serbest gezebilecekleri bir yer yoktur. Dolayisiyla, bir enerji verip
@@ -113,13 +113,16 @@ ne kadar hizli gecebilecegini anlatan kavramdir mobilite.
 * Bir Elektriksel Alan uygulandiginda, elektronlar ortalama hiz seklinde ifade edilen bir `drift hizi` ile cevap verir.
     $$\Large v_d = \mu E.$$
 
-* Peki, sabit olmayan bir hiz olduguna gore bu hiza sebep olan bir ivmenin ve bu ivmeye sebep olan bir kuvvet olsa gerek. Bu kuvvet
+* Peki, sabit olmayan bir hiz olduguna gore bu hiza sebep olan bir ivme ve bu ivmeye sebep olan bir kuvvet olsa gerek. Bu kuvvet
 elektriksel alanin sebep oldugu kuvvet. 
 
     $$ \Large F = -eE .$$
 
-* Mobilitenin formulune gelecek olursak, $$e: \text{elekktron yuku} $$
-$$t_c: \text{bir elektronu tekrar carpana kadar gecen sure.}$$
+* Mobilitenin formulune gelecek olursak, 
+
+$$e: \text{elekktron yuku} $$
+
+$$t_c: \text{bir elektronun tekrar carpana kadar gedirdigi sure.}$$
 $$\Large \mu_e = \frac{e \tau_c}{m_e^*}$$
 
 
@@ -135,7 +138,7 @@ $$\Large \mu_e = \frac{e \tau_c}{m_e^*}$$
 ### Iletkenler (Metaller) :
 *  Değerlik elektronları bir `elektron gazı` oluşturur ve belirli bir iyona bağlı değildir
 *  $$\large \sigma =  10^{-4} - 10^{-6}$$
-*  Sicaklik arttikca iletkenlik azalir.
+*  `Sicaklik arttikca iletkenlik azalir.`
 * Zaten butun valans elektronlari iletim bandinda oldugu icin verilecek olan sicaklik elektronlarin ve iyonlarin `stresini` 
 artirarak mobiletenin azalmasina neden olacaktir dolayisiyla iletkenlik de azalir.
 
@@ -145,7 +148,7 @@ artirarak mobiletenin azalmasina neden olacaktir dolayisiyla iletkenlik de azali
 *  Hem iletken hem de yaliktan yapmak mumkun.
 *  Katkilama ve sicaklik ile yuk tasiyici sayisi ve cesidi degisebilir.
 *  Katkilama ile yapi icerisinde yapisal E.
-*  Sicaklik arttikca iletkenlik artar.
+*  `Sicaklik arttikca iletkenlik artar.`
 * Valans bandinda cikmayi bekleyen elektronlar bulunmaktadir. Verilecek isi ile bu elektronlar iletim bandina
 cikacaklardir. mobilitenin azalma durumu tabii ki de vardir ancak iletim bandina cikan elektron sayisi
 oldukca buyuk oldugu icin her turlu iletkenlik artmis olur.
@@ -160,26 +163,26 @@ en güçlü iyonik (kısmen kovalent) bağlanma.
 * Butun elementlerin `iletkenlik` skalasina bakacak olursak en kucuk ve en buyuk elementler arasindaki farkin 10 <sup>20</sup> oldugunu gorebiliriz. Bu genis araligin baska hic bir
 ozellikte bulunmadigini bilelim. Sebebi de yukarida acikladigimiz gibidir.
 
-* Butunn metallere ( iletkeler ) baktigimiz zaman bunlarin iletkenlik degerleri birbirlerine oldukca yakindir. Keza ayni durum yalitkanlar icin de gecerli.
+* Butun metallere ( iletkenler ) baktigimiz zaman bunlarin iletkenlik degerleri birbirlerine oldukca yakindir. Keza ayni durum yalitkanlar icin de gecerlidir.
 
-* Ayni sicaklikta silisyuma gore germaniymun iletim bandinda daha fazla elektronun bulunma sebebi yasak enerji araliginin
-daha kucuk olmasidir germanyumda.
+* Ayni sicaklikta silisyuma gore germaniymun iletim bandinda daha fazla elektronun bulunma sebebi, germanyumda yasak enerji araliginin
+daha kucuk olmasidir.
 
 </details>
 
 
 <details > <summary>Bipolarlik</summary>
 
-* Yari iletkenlerde belli bir enerji verip valans elektronlarinin bir kismini iletim bandina gecirdikten sonra
+* Yari iletkenlerde, belli bir enerji verip valans elektronlarinin bir kismini iletim bandina gecirdikten sonra
 kovalent baglarini kirip ancak iletim bandina gececek kadar yeterli enerjiye sahip olamayan elektronlarin
-yaptigi sey uygulanan manyetik alanin yonune dogru olusan `bosuluklara` gecemeleridir. Bu hareketlilik ayrica
+yaptigi sey uygulanan manyetik alanin yonune dogru olusan `bosuluklara` gecmektir. Bu hareketlilik ayrica
 bir iletkenlik kazandirir ve bu iletkenlik hesaba katilir
 
 * Bosluk hareketinin yonu elektronun hareketine ters olmakla beraber elektrik alaninin yonuyle aynidir.
 
 * Iletim bandina gecen elektronlarin mobilitesi valans bandinda hareket eden elektronlarin mobilitesinden 
 daha buyuktur. Bu elektornlar tekrar bosluga gecip bag kurduklari ve cekirdege daha yakin olduklari icin
-mobilites kucuktur iletim bandindaki elektronlarin mobiletsinden.
+mobiliteleri kucuktur iletim bandindaki elektronlarin mobiletsinden.
 
 * Valans bandindaki elektron `lokalize`dir ve iletim bandindaki elektron `serbest`tir.
 
@@ -239,7 +242,7 @@ mobilites kucuktur iletim bandindaki elektronlarin mobiletsinden.
 
 #### Dagilim Fonksiyonu
 * `Fermi-Dirac dagilim fonksiyonu:` Belirli bir sicaklikta YI valans ve iletim bandlarindaki 
-elektronlarin denge durmu dagilimini enerjinin fonksiyonu olarak tanimlar.
+elektronlarin denge durmunun dagilimini, enerjinin fonksiyonu olarak tanimlar.
 * Belirli bir E enerjili seviyenin belirli bir sicaklikta bir elektron tarafindan isgal edilme olsailigidir.
 bu olasilik `0` ve `1` arasindadir.
 * isgal edilmeme olasiligi `1-f(e)` seklinde hesaplanarak `1` elektornun varligini temsil ederken `0` yoklugunu 
@@ -307,7 +310,7 @@ $$\Large p_i = N_v \exp \left( -\frac{E_f - E_v}{k_B T} \right)$$
 #### n-tipi
 ----------
 * Pratikte bir `YI'in iletkenligini artirmak` icin sicakligi yuksek tutmak pek tercih edilmemektedir. Ayni zamanda, islem zorlugundan dolayi daha iletken olan Germanyum 
-kullnilmamaktadir. `Cozum: Katkili yari iletken.`
+kullanilmamaktadir. `Cozum: Katkili yari iletken.`
 
 * `n_i` -> `saf` yari iletkende serbest elektron.
 * `n` -> `katkili` yari iletkende serbest elektron.
@@ -315,7 +318,7 @@ kullnilmamaktadir. `Cozum: Katkili yari iletken.`
 * `p_i` -> `saf` yari iletkende bosluk sayisi.
 * `p` -> `katkili` yari iletkende bosluk.
 
-* Katki olarak secilecek maddenin element grubu `4. grup`tan buyuk olmasi beklenir. Tercihcen, `5.grup`. Bu hesaplamalarimizi kolaylastirir ve yeterli iletkenligi 
+* n-tipi icin katki olarak secilecek maddenin element grubu `4. grup`tan buyuk olmasi beklenir. Tercihcen, `5.grup`. Bu hesaplamalarimizi kolaylastirir ve yeterli iletkenligi 
 cekmemize sebep olur. 
 
 * Katki olarak secilecek maddenin `As` oldugunu varsayarsak bu As atomunun her biri sisteme fazladan 1 elektron saglar. Bu elektronlar `yasakli enerji araliginda` konumlanarak
@@ -337,11 +340,6 @@ $$ \sigma = N_D \; e \; \mu_n$$
 
 <img src="./imgs/Screenshot 2024-03-14 091812.png" width=600px/>
 
-* Buradaki `E_D`yi hesaplamak icin bir formul var.
-
-----------
-
-IYONLASMA ENERJI HESABI ??
 
 ----------
 
@@ -431,7 +429,7 @@ gecmeye yeterli olur.
 </details>
 
 
-<details open> <summary>Akim Mekanizmalari</summary>
+<details > <summary>Akim Mekanizmalari</summary>
 
 `Suruklenme Akimi:` Ancak ve ancak belli bir `elektrik alani` sayesinde yuk paracailkari hareket edebilirler, suruklenebilir, ve buna `suruklenme akimi` denir.
 
@@ -473,7 +471,7 @@ $$ \mu_n = \frac{e \tau_n}{m_n^*} \;\;\;\;\; \mu_p = \frac{e \tau_p}{m_p^*}$$
 `Saf` yari iletkenlerde sadece `Fonon veya orgu sacilmasi gerceklesir`. Bu sacilma turu yari iletkenin atomumndan kaynaklanir.
 `Katkili` yari iletkenlerde sadece `Fonon` soz konusu degildir. Maddenin kendi yapisindan kaynaklanan atomlarin itmesinin yaninda `katkili maddenin iyonlari` da soz konusudur.
 
-* Sicaklik arttikca mobilite azalir. Sebep: Fonomlarin titresiminin artmasi.
+* Katkili YI'lerde, sicaklik arttikca mobilite azalir. Sebep: Fonomlarin titresiminin artmasi.
 * Katkili yari iletkenlerde, katki maddelerinin iyonlari yuzunden mobilite her turlu azalacaktir. Ne kadar katki varsa mobilite o kadar azalir. Ayrica katki miktari artinca
 azalis egimi de azalmaktadir. Yani, cok katkili bir yari iletkenin sicaklik arttikca mobilitesi az azalirken az katkili yari iletkenin mobilitesi cok daha hizli azalir.
 * Katkili yari iletkenlerde, katkinin iyonlari ile olusan tepkiler `Colomb Tepkileridir`.
@@ -508,12 +506,11 @@ $$ I_{topAkim} = A J_{top} $$
 
 #### Hall Olayi
 
-* ELektrik alan uygularken manyetik alan da uygularsak ne olur? sorusunun cevabi.
-* Yani, bir elektrik alan uygulandiginda yani zamanda manyetik alan uygularsak iletim bandaindaki serbest elektronlara ne olur?
-* Hareketli bir yuk parcacigi uzerinde, bir elektrik alan uygulandiginda ne yapar ve manyetik alan uygulandiginda ne yapar.
-* Ilk once `metallerde` inceleyelim. Metaller, tasiyisi elektron konsantrasyonu degismeyen bir madde olarak bilinir.
-* Normal sartlarda metal bir cisim alip uclarina potansiyel fark uygulandigi zaman akim onun icinden bekledigimiz sekilde `dogrusal` bir sekilde ilerler. Ancak
-manyteik alanin kuvvetine tabi tutarsak bu cismi serbest yuk tasiyicilari biraz daha egrisel bir yol cizer ve metal cismin diger uclarina dokunmaya baslar.
+* Elektrik alan uygularken manyetik alan da uygularsak ne olur? sorusunun cevabi.
+* Yani, bir elektrik alan uygulandiginda ani zamanda manyetik alan uygularsak iletim bandaindaki serbest elektronlara ne olur?
+* Ilk once `metallerde` inceleyelim. Metaller, tasiyici elektron konsantrasyonu degismeyen bir madde olarak bilinir.
+* Normal sartlarda metal bir cisim alip uclarina potansiyel fark ugyuladigimiz zaman, akim onun icinden bekledigimiz sekilde `dogrusal` ilerler. Ancak
+manyteik alanin kuvvetine tabi tutarsak bu cismin serbest yuk tasiyicilari biraz daha egrisel bir yol cizer ve metal cismin diger uclarina dokunmaya baslar.
 Bu uclara da voltmetere baglarsak artik bir potansiyel fark degeri de okuyabilecegiz.
 
 * `Yari iletkenlerde` duruma bakalim. Dik dortgen prizmasi seklinde bir cisim hayal edelim. Bu cismin uclarina potansiyel fark olusturacak sekilde bir uretec baglarsak
